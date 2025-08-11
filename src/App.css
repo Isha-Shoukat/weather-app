@@ -27,6 +27,14 @@
 .App-link {
   color: #61dafb;
 }
+.weather-card {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 20px;
+  color: #fff;
+}
+
 
 @keyframes App-logo-spin {
   from {
